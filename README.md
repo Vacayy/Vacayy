@@ -29,7 +29,7 @@
 *[2017.03 - 2024.08]*
 <br>
 **Sungkyunkwan University (SKKU)**
-<br> -　Global Economics
+<br> -　Global Economics (글로벌경제학과)
 
 <br><br>
 ## Social
