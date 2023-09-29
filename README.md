@@ -14,7 +14,7 @@
 <br> - 11기, Back-end <br><br>
 
 *[2022.06 - 2023.12]* <br>
-**Samsung Securites (삼성증권)**
+**Samsung Securities (삼성증권)**
 <br> - Research Center, Tech Team
 <br> - 반도체, IT Hardware, Sorftware 산업 및 기업 분석 <br><br>
 
