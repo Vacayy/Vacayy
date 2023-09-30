@@ -1,7 +1,7 @@
 # Juyeong Kim (주영)
 **사람을 위해 비즈니스를, 비즈니스를 위해 기술을**
 <br><br><br>
-
+   
 ## Experience
 <br>
 
