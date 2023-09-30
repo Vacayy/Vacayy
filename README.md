@@ -37,7 +37,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:juyeong.kim.201@gmail.com) 
  
 
-<br><br><br><br>
+<br><br> <br><br>
 
 
 
