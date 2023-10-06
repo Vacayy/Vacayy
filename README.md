@@ -3,8 +3,6 @@
 <br><br><br>
    
 ## Experience
-<br>
-
 *[2023.10 - ]* <br>
 **Krafton Jungle (크래프톤 정글)**
 <br> - 3기, 교육생 <br><br>
