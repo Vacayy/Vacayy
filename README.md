@@ -1,6 +1,5 @@
 # Juyeong Kim (주영)
 **사람👨‍👩‍👦‍👦 ← 비즈니스💡 ← 기술🧑🏻‍💻**
-
 <br><br><br>
    
 ## Experience
@@ -42,7 +41,7 @@
 
 
 <!--
-
+ㅇㅇㅇㅇ
 ## Projects
 
 [**Movie Picker**](https://github.com/Bluuubery/Movie-Picker)  
