@@ -23,7 +23,7 @@
 
 
 <br><br>
-## Education
+## Education..
 *[2017.03 - 2024.08]*
 <br>
 **Sungkyunkwan University (SKKU)**
