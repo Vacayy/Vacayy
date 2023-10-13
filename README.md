@@ -1,5 +1,5 @@
 # Juyeong Kim (주영)
-**사람👨‍👩‍👦‍👦 ← 비즈니스💡 ← 기술🧑🏻‍💻**
+공부 중 ..
 <br><br><br>
    
 ## Experience
