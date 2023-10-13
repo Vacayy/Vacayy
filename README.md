@@ -9,7 +9,7 @@
 
 *[2023.03 - 2023.08]* <br>
 **Like Lion (멋쟁이사자처럼)**
-<br> - 11기, Back-end <br><br>
+<br> - 11기 <br><br>
 
 *[2022.06 - 2023.12]* <br>
 **Samsung Securities (삼성증권)**
