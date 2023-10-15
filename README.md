@@ -17,7 +17,7 @@
 <br> - 반도체, IT Hardware, Sorftware 산업 및 기업 분석 <br><br>
 
 *[2021.03 - 2022.06]* <br>
-**Sungkyunkwan Traders and Researchers (성균관대 가치투자학회 STAR)** 
+**Sungkyunkwan Traders and Researchers (성균관대 금융투자학회 STAR)** 
 <br> - 43기, 학회장
 <br> - 산업 및 기업 분석, 기업가치 평가, 투자보고서 작성
 
