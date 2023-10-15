@@ -5,20 +5,20 @@
 ## Experience
 *[2023.10 - ]* <br>
 **Krafton Jungle (크래프톤 정글)**
-<br> - 3기, 교육생 <br><br>
+<br>3기, 교육생 <br><br>
 
 *[2023.03 - 2023.08]* <br>
 **Like Lion (멋쟁이사자처럼)**
-<br> - 11기 <br><br>
+<br>11기 <br><br>
 
 *[2022.06 - 2023.12]* <br>
 **Samsung Securities (삼성증권)**
-<br> - Research Center, Tech Team
+<br>Research Center, Tech Team
 <br> - 반도체, IT Hardware, Sorftware 산업 및 기업 분석 <br><br>
 
 *[2021.03 - 2022.06]* <br>
 **Sungkyunkwan Traders and Researchers (성균관대 금융투자학회 STAR)** 
-<br> - 43기, 학회장
+<br>43기, 학회장
 <br> - 산업 및 기업 분석, 기업가치 평가, 투자보고서 작성
 <br> - 학회 운영, 신입 학회원 교육
 
