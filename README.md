@@ -20,6 +20,7 @@
 **Sungkyunkwan Traders and Researchers (성균관대 금융투자학회 STAR)** 
 <br> - 43기, 학회장
 <br> - 산업 및 기업 분석, 기업가치 평가, 투자보고서 작성
+<br> - 학회 운영, 신입 학회원 교육
 
 
 <br><br>
