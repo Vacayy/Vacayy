@@ -27,7 +27,7 @@
 ## Education
 *[2017.03 - 2024.08]*
 <br>
-**Sungkyunkwan University (SKKU)**
+**Sungkyunkwan University (성균관대학교)**
 <br> -　Global Economics (글로벌경제학과)
 
 <br><br>
