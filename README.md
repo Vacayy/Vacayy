@@ -14,7 +14,8 @@
 *[2022.06 - 2023.12]* <br>
 **Samsung Securities (삼성증권)**
 <br>Research Center, Tech Team
-<br> - 반도체, IT Hardware, Sorftware 산업 및 기업 분석 <br><br>
+<br> - 반도체, IT Hardware, Software 산업 및 기업 분석 <br><br>
+<br> - 커버리지 기업 분석 의견, 시각 자료 작성 <br><br>
 
 *[2021.03 - 2022.06]* <br>
 **Sungkyunkwan Traders and Researchers (성균관대 금융투자학회 STAR)** 
