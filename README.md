@@ -6,7 +6,7 @@
 <br><br>
    
 ## Experience
-*[2023.10 - ]* <br>
+*[2023.10 - 2024.02]* <br>
 **Krafton Jungle (크래프톤 정글)**
 <br>3기 <br><br>
 
